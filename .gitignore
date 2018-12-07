@@ -1,2 +1,6 @@
 /vendor
 /.vagrant
+/www
+.idea/
+/cert/homestead_root_ca.crt
+Homestead.yaml
