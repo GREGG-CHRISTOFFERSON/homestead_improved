@@ -5,12 +5,12 @@ cpus: 1
 provider: virtualbox
 
 folders:
-    - map: c:/Users/gechr/dev/virtual_machines/sandbox
+    - map: d:/gechr/documents/dev/virtual-machines/homestead_improved_kc
       to: /home/vagrant/Code
 
 sites:
-    - map: globebank.test
-      to: /home/vagrant/Code/www/globe_bank/public
+    - map: kennethjcaseynewsletters.test
+      to: /home/vagrant/Code/www/lp10
 
 
 databases:
